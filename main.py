@@ -57,10 +57,3 @@ def find_password(cached_files):
                         return words[i + 1]
         file.close()
     return ''
-
-
-# '''
-cache_zip("data.zip", "cache")
-find_password(cached_files())
-# clean_cache()
-# '''
