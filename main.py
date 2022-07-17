@@ -34,7 +34,7 @@ zijn voor het paswoord. Dit is echter geen vaststaand feit. De functie zou dus e
 bij elk bestand een aantal keywords moeten doorlopen zoals bijvoorbeeld: password, keyword, pw,
 secrect_word etc, etc.. Verder is natuurlijk niet duidelijk waar dan het eigenlijke paswoord
 zelf staat. Staat deze misschien voor het woord "password" zoals bijvoorbeeld 
-geheim_pw = paswoord of daarna. Ook is niet duidelijk of en hoeveel spaties tussen het woord
+geheim_pw = password of daarna. Ook is niet duidelijk of en hoeveel spaties tussen het woord
 paswoord en het eigenlijke paswoord staan (vandaar het gebruik van .split()). 
 Omdat je deze gegevens niet hebt is het moeilijk hier een goede functie voor te schrijven. 
 Ik ben er echter maar vanuit gegaan dat het allemaal niet zo ingewikkeld
